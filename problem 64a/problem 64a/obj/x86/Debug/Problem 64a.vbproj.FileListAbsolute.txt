@@ -1,0 +1,10 @@
+C:\Users\Simon Stanford\Dropbox\PC\Visual Studio 2010\Projects\Problem 64a\Problem 64a\bin\Debug\Problem 64a.exe
+C:\Users\Simon Stanford\Dropbox\PC\Visual Studio 2010\Projects\Problem 64a\Problem 64a\bin\Debug\Problem 64a.pdb
+C:\Users\Simon Stanford\Dropbox\PC\Visual Studio 2010\Projects\Problem 64a\Problem 64a\bin\Debug\Problem 64a.xml
+C:\Users\Simon Stanford\Dropbox\PC\Visual Studio 2010\Projects\Problem 64a\Problem 64a\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Simon Stanford\Dropbox\PC\Visual Studio 2010\Projects\Problem 64a\Problem 64a\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\Simon Stanford\Dropbox\PC\Visual Studio 2010\Projects\Problem 64a\Problem 64a\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Simon Stanford\Dropbox\PC\Visual Studio 2010\Projects\Problem 64a\Problem 64a\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Simon Stanford\Dropbox\PC\Visual Studio 2010\Projects\Problem 64a\Problem 64a\obj\x86\Debug\Problem 64a.exe
+C:\Users\Simon Stanford\Dropbox\PC\Visual Studio 2010\Projects\Problem 64a\Problem 64a\obj\x86\Debug\Problem 64a.xml
+C:\Users\Simon Stanford\Dropbox\PC\Visual Studio 2010\Projects\Problem 64a\Problem 64a\obj\x86\Debug\Problem 64a.pdb

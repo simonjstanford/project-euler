@@ -1,0 +1,11 @@
+C:\Users\Simon\documents\visual studio 2010\Projects\Collatz Problem\Collatz Problem\bin\Debug\Collatz Problem.exe
+C:\Users\Simon\documents\visual studio 2010\Projects\Collatz Problem\Collatz Problem\bin\Debug\Collatz Problem.pdb
+C:\Users\Simon\documents\visual studio 2010\Projects\Collatz Problem\Collatz Problem\bin\Debug\Collatz Problem.xml
+C:\Users\Simon\documents\visual studio 2010\Projects\Collatz Problem\Collatz Problem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Simon\documents\visual studio 2010\Projects\Collatz Problem\Collatz Problem\obj\x86\Debug\Collatz_Problem.Form1.resources
+C:\Users\Simon\documents\visual studio 2010\Projects\Collatz Problem\Collatz Problem\obj\x86\Debug\Collatz_Problem.Resources.resources
+C:\Users\Simon\documents\visual studio 2010\Projects\Collatz Problem\Collatz Problem\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Simon\documents\visual studio 2010\Projects\Collatz Problem\Collatz Problem\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Simon\documents\visual studio 2010\Projects\Collatz Problem\Collatz Problem\obj\x86\Debug\Collatz Problem.exe
+C:\Users\Simon\documents\visual studio 2010\Projects\Collatz Problem\Collatz Problem\obj\x86\Debug\Collatz Problem.xml
+C:\Users\Simon\documents\visual studio 2010\Projects\Collatz Problem\Collatz Problem\obj\x86\Debug\Collatz Problem.pdb

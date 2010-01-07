@@ -1,0 +1,14 @@
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem34a\Problem34a\bin\Debug\Problem34a.exe
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem34a\Problem34a\bin\Debug\Problem34a.pdb
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem34a\Problem34a\bin\Debug\Problem34a.xml
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem34a\Problem34a\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem34a\Problem34a\obj\x86\Debug\Problem_34.Problem34.resources
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem34a\Problem34a\obj\x86\Debug\Problem_34.Resources.resources
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem34a\Problem34a\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem34a\Problem34a\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem34a\Problem34a\obj\x86\Debug\Problem34a.exe
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem34a\Problem34a\obj\x86\Debug\Problem34a.xml
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem34a\Problem34a\obj\x86\Debug\Problem34a.pdb
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Problem34\Problem34a\obj\x86\Debug\Problem34a.exe
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Problem34\Problem34a\obj\x86\Debug\Problem34a.xml
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Problem34\Problem34a\obj\x86\Debug\Problem34a.pdb

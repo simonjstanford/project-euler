@@ -1,0 +1,11 @@
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 55\Problem 55\bin\Debug\Problem 55.exe
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 55\Problem 55\bin\Debug\Problem 55.pdb
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 55\Problem 55\bin\Debug\Problem 55.xml
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 55\Problem 55\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 55\Problem 55\obj\x86\Debug\Problem_55.Problem55.resources
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 55\Problem 55\obj\x86\Debug\Problem_55.Resources.resources
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 55\Problem 55\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 55\Problem 55\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 55\Problem 55\obj\x86\Debug\Problem 55.exe
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 55\Problem 55\obj\x86\Debug\Problem 55.xml
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 55\Problem 55\obj\x86\Debug\Problem 55.pdb

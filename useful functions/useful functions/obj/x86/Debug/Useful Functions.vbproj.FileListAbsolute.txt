@@ -1,0 +1,22 @@
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Useful Functions\Useful Functions\bin\Debug\Useful Functions.exe
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Useful Functions\Useful Functions\bin\Debug\Useful Functions.pdb
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Useful Functions\Useful Functions\bin\Debug\Useful Functions.xml
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Useful Functions\Useful Functions\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Useful Functions\Useful Functions\obj\x86\Debug\Useful_Functions.Form1.resources
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Useful Functions\Useful Functions\obj\x86\Debug\Useful_Functions.Resources.resources
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Useful Functions\Useful Functions\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Useful Functions\Useful Functions\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Useful Functions\Useful Functions\obj\x86\Debug\Useful Functions.exe
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Useful Functions\Useful Functions\obj\x86\Debug\Useful Functions.xml
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Useful Functions\Useful Functions\obj\x86\Debug\Useful Functions.pdb
+C:\Users\Simon Stanford\Dropbox\PC\Visual Studio 2010\Projects\Useful Functions\Useful Functions\obj\x86\Debug\Useful Functions.exe
+C:\Users\Simon Stanford\Dropbox\PC\Visual Studio 2010\Projects\Useful Functions\Useful Functions\obj\x86\Debug\Useful Functions.xml
+C:\Users\Simon Stanford\Dropbox\PC\Visual Studio 2010\Projects\Useful Functions\Useful Functions\obj\x86\Debug\Useful Functions.pdb
+C:\Users\Simon Stanford\Dropbox\PC\Visual Studio 2010\Projects\Useful Functions\Useful Functions\bin\Debug\Useful Functions.exe
+C:\Users\Simon Stanford\Dropbox\PC\Visual Studio 2010\Projects\Useful Functions\Useful Functions\bin\Debug\Useful Functions.pdb
+C:\Users\Simon Stanford\Dropbox\PC\Visual Studio 2010\Projects\Useful Functions\Useful Functions\bin\Debug\Useful Functions.xml
+C:\Users\Simon Stanford\Dropbox\PC\Visual Studio 2010\Projects\Useful Functions\Useful Functions\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Simon Stanford\Dropbox\PC\Visual Studio 2010\Projects\Useful Functions\Useful Functions\obj\x86\Debug\Useful_Functions.Form1.resources
+C:\Users\Simon Stanford\Dropbox\PC\Visual Studio 2010\Projects\Useful Functions\Useful Functions\obj\x86\Debug\Useful_Functions.Resources.resources
+C:\Users\Simon Stanford\Dropbox\PC\Visual Studio 2010\Projects\Useful Functions\Useful Functions\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Simon Stanford\Dropbox\PC\Visual Studio 2010\Projects\Useful Functions\Useful Functions\obj\x86\Debug\GenerateResource.write.1.tlog

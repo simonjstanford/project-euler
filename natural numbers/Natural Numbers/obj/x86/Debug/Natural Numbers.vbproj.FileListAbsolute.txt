@@ -1,0 +1,11 @@
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Natural Numbers\Natural Numbers\bin\Debug\Natural Numbers.exe
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Natural Numbers\Natural Numbers\bin\Debug\Natural Numbers.pdb
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Natural Numbers\Natural Numbers\bin\Debug\Natural Numbers.xml
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Natural Numbers\Natural Numbers\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Natural Numbers\Natural Numbers\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Natural Numbers\Natural Numbers\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Natural Numbers\Natural Numbers\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Natural Numbers\Natural Numbers\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Natural Numbers\Natural Numbers\obj\x86\Debug\Natural Numbers.exe
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Natural Numbers\Natural Numbers\obj\x86\Debug\Natural Numbers.xml
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Natural Numbers\Natural Numbers\obj\x86\Debug\Natural Numbers.pdb

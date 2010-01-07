@@ -1,0 +1,5 @@
+C:\Users\Simon Stanford\Dropbox\PC\Visual Studio 2010\Projects\EulerProjectClassLibrary\EulerProjectClassLibrary\bin\Debug\EulerProjectClassLibrary.dll
+C:\Users\Simon Stanford\Dropbox\PC\Visual Studio 2010\Projects\EulerProjectClassLibrary\EulerProjectClassLibrary\bin\Debug\EulerProjectClassLibrary.pdb
+C:\Users\Simon Stanford\Dropbox\PC\Visual Studio 2010\Projects\EulerProjectClassLibrary\EulerProjectClassLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Simon Stanford\Dropbox\PC\Visual Studio 2010\Projects\EulerProjectClassLibrary\EulerProjectClassLibrary\obj\Debug\EulerProjectClassLibrary.dll
+C:\Users\Simon Stanford\Dropbox\PC\Visual Studio 2010\Projects\EulerProjectClassLibrary\EulerProjectClassLibrary\obj\Debug\EulerProjectClassLibrary.pdb

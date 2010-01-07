@@ -1,0 +1,11 @@
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Problem 45\Problem 45\bin\Debug\Problem 45.exe
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Problem 45\Problem 45\bin\Debug\Problem 45.pdb
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Problem 45\Problem 45\bin\Debug\Problem 45.xml
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Problem 45\Problem 45\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Problem 45\Problem 45\obj\x86\Debug\Problem_45.Problem45.resources
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Problem 45\Problem 45\obj\x86\Debug\Problem_45.Resources.resources
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Problem 45\Problem 45\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Problem 45\Problem 45\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Problem 45\Problem 45\obj\x86\Debug\Problem 45.exe
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Problem 45\Problem 45\obj\x86\Debug\Problem 45.xml
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Problem 45\Problem 45\obj\x86\Debug\Problem 45.pdb

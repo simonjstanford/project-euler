@@ -1,0 +1,11 @@
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 39\Problem 39\bin\Debug\Problem 39.exe
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 39\Problem 39\bin\Debug\Problem 39.pdb
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 39\Problem 39\bin\Debug\Problem 39.xml
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 39\Problem 39\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 39\Problem 39\obj\x86\Debug\Problem_39.Problem39.resources
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 39\Problem 39\obj\x86\Debug\Problem_39.Resources.resources
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 39\Problem 39\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 39\Problem 39\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 39\Problem 39\obj\x86\Debug\Problem 39.exe
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 39\Problem 39\obj\x86\Debug\Problem 39.xml
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 39\Problem 39\obj\x86\Debug\Problem 39.pdb

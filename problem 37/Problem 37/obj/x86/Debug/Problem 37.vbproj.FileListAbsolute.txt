@@ -1,0 +1,11 @@
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 37\Problem 37\bin\Debug\Problem 37.exe
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 37\Problem 37\bin\Debug\Problem 37.pdb
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 37\Problem 37\bin\Debug\Problem 37.xml
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 37\Problem 37\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 37\Problem 37\obj\x86\Debug\Problem_37.Problem37.resources
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 37\Problem 37\obj\x86\Debug\Problem_37.Resources.resources
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 37\Problem 37\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 37\Problem 37\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 37\Problem 37\obj\x86\Debug\Problem 37.exe
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 37\Problem 37\obj\x86\Debug\Problem 37.xml
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 37\Problem 37\obj\x86\Debug\Problem 37.pdb

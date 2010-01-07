@@ -1,0 +1,11 @@
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Problem 38\Problem 38\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Problem 38\Problem 38\obj\x86\Debug\Problem_38.Problem38.resources
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Problem 38\Problem 38\obj\x86\Debug\Problem_38.Resources.resources
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Problem 38\Problem 38\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Problem 38\Problem 38\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Problem 38\Problem 38\bin\Debug\Problem 38.exe
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Problem 38\Problem 38\bin\Debug\Problem 38.pdb
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Problem 38\Problem 38\bin\Debug\Problem 38.xml
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Problem 38\Problem 38\obj\x86\Debug\Problem 38.exe
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Problem 38\Problem 38\obj\x86\Debug\Problem 38.xml
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Problem 38\Problem 38\obj\x86\Debug\Problem 38.pdb

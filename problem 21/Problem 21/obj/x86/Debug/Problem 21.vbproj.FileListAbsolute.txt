@@ -1,0 +1,14 @@
+C:\Users\Simon\AppData\Local\Temporary Projects\Problem 21\bin\Debug\Problem 21.exe
+C:\Users\Simon\AppData\Local\Temporary Projects\Problem 21\bin\Debug\Problem 21.pdb
+C:\Users\Simon\AppData\Local\Temporary Projects\Problem 21\bin\Debug\Problem 21.xml
+C:\Users\Simon\AppData\Local\Temporary Projects\Problem 21\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Simon\AppData\Local\Temporary Projects\Problem 21\obj\x86\Debug\Problem_21.Form1.resources
+C:\Users\Simon\AppData\Local\Temporary Projects\Problem 21\obj\x86\Debug\Problem_21.Resources.resources
+C:\Users\Simon\AppData\Local\Temporary Projects\Problem 21\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Simon\AppData\Local\Temporary Projects\Problem 21\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Simon\AppData\Local\Temporary Projects\Problem 21\obj\x86\Debug\Problem 21.exe
+C:\Users\Simon\AppData\Local\Temporary Projects\Problem 21\obj\x86\Debug\Problem 21.xml
+C:\Users\Simon\AppData\Local\Temporary Projects\Problem 21\obj\x86\Debug\Problem 21.pdb
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 21\Problem 21\obj\x86\Debug\Problem 21.exe
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 21\Problem 21\obj\x86\Debug\Problem 21.xml
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 21\Problem 21\obj\x86\Debug\Problem 21.pdb

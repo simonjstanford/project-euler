@@ -1,0 +1,11 @@
+C:\Users\Simon\documents\visual studio 2010\Projects\Prime Factor\Prime Factor\bin\Debug\Prime Factor.exe
+C:\Users\Simon\documents\visual studio 2010\Projects\Prime Factor\Prime Factor\bin\Debug\Prime Factor.pdb
+C:\Users\Simon\documents\visual studio 2010\Projects\Prime Factor\Prime Factor\bin\Debug\Prime Factor.xml
+C:\Users\Simon\documents\visual studio 2010\Projects\Prime Factor\Prime Factor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Simon\documents\visual studio 2010\Projects\Prime Factor\Prime Factor\obj\x86\Debug\Prime_Factor.Form1.resources
+C:\Users\Simon\documents\visual studio 2010\Projects\Prime Factor\Prime Factor\obj\x86\Debug\Prime_Factor.Resources.resources
+C:\Users\Simon\documents\visual studio 2010\Projects\Prime Factor\Prime Factor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Simon\documents\visual studio 2010\Projects\Prime Factor\Prime Factor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Simon\documents\visual studio 2010\Projects\Prime Factor\Prime Factor\obj\x86\Debug\Prime Factor.exe
+C:\Users\Simon\documents\visual studio 2010\Projects\Prime Factor\Prime Factor\obj\x86\Debug\Prime Factor.xml
+C:\Users\Simon\documents\visual studio 2010\Projects\Prime Factor\Prime Factor\obj\x86\Debug\Prime Factor.pdb

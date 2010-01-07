@@ -1,0 +1,22 @@
+C:\Users\Simon\AppData\Local\Temporary Projects\Squares\bin\Debug\Squares.exe
+C:\Users\Simon\AppData\Local\Temporary Projects\Squares\bin\Debug\Squares.pdb
+C:\Users\Simon\AppData\Local\Temporary Projects\Squares\bin\Debug\Squares.xml
+C:\Users\Simon\AppData\Local\Temporary Projects\Squares\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Simon\AppData\Local\Temporary Projects\Squares\obj\x86\Debug\Squares.Form1.resources
+C:\Users\Simon\AppData\Local\Temporary Projects\Squares\obj\x86\Debug\Squares.Resources.resources
+C:\Users\Simon\AppData\Local\Temporary Projects\Squares\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Simon\AppData\Local\Temporary Projects\Squares\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Simon\AppData\Local\Temporary Projects\Squares\obj\x86\Debug\Squares.exe
+C:\Users\Simon\AppData\Local\Temporary Projects\Squares\obj\x86\Debug\Squares.xml
+C:\Users\Simon\AppData\Local\Temporary Projects\Squares\obj\x86\Debug\Squares.pdb
+C:\Users\Simon\documents\visual studio 2010\Projects\Squares\Squares\obj\x86\Debug\Squares.exe
+C:\Users\Simon\documents\visual studio 2010\Projects\Squares\Squares\obj\x86\Debug\Squares.xml
+C:\Users\Simon\documents\visual studio 2010\Projects\Squares\Squares\obj\x86\Debug\Squares.pdb
+C:\Users\Simon\documents\visual studio 2010\Projects\Squares\Squares\bin\Debug\Squares.exe
+C:\Users\Simon\documents\visual studio 2010\Projects\Squares\Squares\bin\Debug\Squares.pdb
+C:\Users\Simon\documents\visual studio 2010\Projects\Squares\Squares\bin\Debug\Squares.xml
+C:\Users\Simon\documents\visual studio 2010\Projects\Squares\Squares\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Simon\documents\visual studio 2010\Projects\Squares\Squares\obj\x86\Debug\Squares.Form1.resources
+C:\Users\Simon\documents\visual studio 2010\Projects\Squares\Squares\obj\x86\Debug\Squares.Resources.resources
+C:\Users\Simon\documents\visual studio 2010\Projects\Squares\Squares\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Simon\documents\visual studio 2010\Projects\Squares\Squares\obj\x86\Debug\GenerateResource.write.1.tlog

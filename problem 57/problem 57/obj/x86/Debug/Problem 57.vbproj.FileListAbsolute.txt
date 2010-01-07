@@ -1,0 +1,14 @@
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 57\Problem 57\bin\Debug\Problem 57.exe
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 57\Problem 57\bin\Debug\Problem 57.pdb
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 57\Problem 57\bin\Debug\Problem 57.xml
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 57\Problem 57\bin\Debug\yo\Problem 57.resources.dll
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 57\Problem 57\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 57\Problem 57\obj\x86\Debug\Problem_57.Problemx.resources
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 57\Problem 57\obj\x86\Debug\Problem_57.Resources.resources
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 57\Problem 57\obj\x86\Debug\Problem_57.Problemx.yo.resources
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 57\Problem 57\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 57\Problem 57\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 57\Problem 57\obj\x86\Debug\yo\Problem 57.resources.dll
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 57\Problem 57\obj\x86\Debug\Problem 57.exe
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 57\Problem 57\obj\x86\Debug\Problem 57.xml
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 57\Problem 57\obj\x86\Debug\Problem 57.pdb

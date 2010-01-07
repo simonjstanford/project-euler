@@ -1,0 +1,11 @@
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Problem 24a\Problem 24a\bin\Debug\Problem 24a.exe
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Problem 24a\Problem 24a\bin\Debug\Problem 24a.pdb
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Problem 24a\Problem 24a\bin\Debug\Problem 24a.xml
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Problem 24a\Problem 24a\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Problem 24a\Problem 24a\obj\x86\Debug\Problem_24a.Form1.resources
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Problem 24a\Problem 24a\obj\x86\Debug\Problem_24a.Resources.resources
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Problem 24a\Problem 24a\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Problem 24a\Problem 24a\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Problem 24a\Problem 24a\obj\x86\Debug\Problem 24a.exe
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Problem 24a\Problem 24a\obj\x86\Debug\Problem 24a.xml
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Problem 24a\Problem 24a\obj\x86\Debug\Problem 24a.pdb

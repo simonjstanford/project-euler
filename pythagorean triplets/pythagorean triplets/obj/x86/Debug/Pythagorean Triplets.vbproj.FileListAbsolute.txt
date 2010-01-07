@@ -1,0 +1,22 @@
+C:\Users\Simon\AppData\Local\Temporary Projects\Pythagorean Triplets\bin\Debug\Pythagorean Triplets.exe
+C:\Users\Simon\AppData\Local\Temporary Projects\Pythagorean Triplets\bin\Debug\Pythagorean Triplets.pdb
+C:\Users\Simon\AppData\Local\Temporary Projects\Pythagorean Triplets\bin\Debug\Pythagorean Triplets.xml
+C:\Users\Simon\AppData\Local\Temporary Projects\Pythagorean Triplets\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Simon\AppData\Local\Temporary Projects\Pythagorean Triplets\obj\x86\Debug\Pythagorean_Triplets.Form1.resources
+C:\Users\Simon\AppData\Local\Temporary Projects\Pythagorean Triplets\obj\x86\Debug\Pythagorean_Triplets.Resources.resources
+C:\Users\Simon\AppData\Local\Temporary Projects\Pythagorean Triplets\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Simon\AppData\Local\Temporary Projects\Pythagorean Triplets\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Simon\AppData\Local\Temporary Projects\Pythagorean Triplets\obj\x86\Debug\Pythagorean Triplets.exe
+C:\Users\Simon\AppData\Local\Temporary Projects\Pythagorean Triplets\obj\x86\Debug\Pythagorean Triplets.xml
+C:\Users\Simon\AppData\Local\Temporary Projects\Pythagorean Triplets\obj\x86\Debug\Pythagorean Triplets.pdb
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Pythagorean Triplets\Pythagorean Triplets\obj\x86\Debug\Pythagorean Triplets.exe
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Pythagorean Triplets\Pythagorean Triplets\obj\x86\Debug\Pythagorean Triplets.xml
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Pythagorean Triplets\Pythagorean Triplets\obj\x86\Debug\Pythagorean Triplets.pdb
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Pythagorean Triplets\Pythagorean Triplets\bin\Debug\Pythagorean Triplets.exe
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Pythagorean Triplets\Pythagorean Triplets\bin\Debug\Pythagorean Triplets.pdb
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Pythagorean Triplets\Pythagorean Triplets\bin\Debug\Pythagorean Triplets.xml
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Pythagorean Triplets\Pythagorean Triplets\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Pythagorean Triplets\Pythagorean Triplets\obj\x86\Debug\Pythagorean_Triplets.Form1.resources
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Pythagorean Triplets\Pythagorean Triplets\obj\x86\Debug\Pythagorean_Triplets.Resources.resources
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Pythagorean Triplets\Pythagorean Triplets\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Simon\Documents\Visual Studio 2010\Projects\Pythagorean Triplets\Pythagorean Triplets\obj\x86\Debug\GenerateResource.write.1.tlog

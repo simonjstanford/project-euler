@@ -1,0 +1,11 @@
+C:\Users\Simon\documents\visual studio 2010\Projects\Palindromic Numbers\Palindromic Numbers\bin\Debug\Palindromic Numbers.exe
+C:\Users\Simon\documents\visual studio 2010\Projects\Palindromic Numbers\Palindromic Numbers\bin\Debug\Palindromic Numbers.pdb
+C:\Users\Simon\documents\visual studio 2010\Projects\Palindromic Numbers\Palindromic Numbers\bin\Debug\Palindromic Numbers.xml
+C:\Users\Simon\documents\visual studio 2010\Projects\Palindromic Numbers\Palindromic Numbers\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Simon\documents\visual studio 2010\Projects\Palindromic Numbers\Palindromic Numbers\obj\x86\Debug\Palindromic_Numbers.Form1.resources
+C:\Users\Simon\documents\visual studio 2010\Projects\Palindromic Numbers\Palindromic Numbers\obj\x86\Debug\Palindromic_Numbers.Resources.resources
+C:\Users\Simon\documents\visual studio 2010\Projects\Palindromic Numbers\Palindromic Numbers\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Simon\documents\visual studio 2010\Projects\Palindromic Numbers\Palindromic Numbers\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Simon\documents\visual studio 2010\Projects\Palindromic Numbers\Palindromic Numbers\obj\x86\Debug\Palindromic Numbers.exe
+C:\Users\Simon\documents\visual studio 2010\Projects\Palindromic Numbers\Palindromic Numbers\obj\x86\Debug\Palindromic Numbers.xml
+C:\Users\Simon\documents\visual studio 2010\Projects\Palindromic Numbers\Palindromic Numbers\obj\x86\Debug\Palindromic Numbers.pdb

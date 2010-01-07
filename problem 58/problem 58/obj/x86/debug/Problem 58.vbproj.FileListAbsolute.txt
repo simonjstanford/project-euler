@@ -1,0 +1,28 @@
+C:\Users\Simon\AppData\Local\Temporary Projects\Problem 58\bin\Debug\Problem 36.exe
+C:\Users\Simon\AppData\Local\Temporary Projects\Problem 58\bin\Debug\Problem 36.pdb
+C:\Users\Simon\AppData\Local\Temporary Projects\Problem 58\bin\Debug\Problem 36.xml
+C:\Users\Simon\AppData\Local\Temporary Projects\Problem 58\bin\Debug\yo\Problem 36.resources.dll
+C:\Users\Simon\AppData\Local\Temporary Projects\Problem 58\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Simon\AppData\Local\Temporary Projects\Problem 58\obj\x86\Debug\Problem_58.Problemx.resources
+C:\Users\Simon\AppData\Local\Temporary Projects\Problem 58\obj\x86\Debug\Problem_58.Resources.resources
+C:\Users\Simon\AppData\Local\Temporary Projects\Problem 58\obj\x86\Debug\Problem_58.Problemx.yo.resources
+C:\Users\Simon\AppData\Local\Temporary Projects\Problem 58\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Simon\AppData\Local\Temporary Projects\Problem 58\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Simon\AppData\Local\Temporary Projects\Problem 58\obj\x86\Debug\yo\Problem 36.resources.dll
+C:\Users\Simon\AppData\Local\Temporary Projects\Problem 58\obj\x86\Debug\Problem 36.exe
+C:\Users\Simon\AppData\Local\Temporary Projects\Problem 58\obj\x86\Debug\Problem 36.xml
+C:\Users\Simon\AppData\Local\Temporary Projects\Problem 58\obj\x86\Debug\Problem 36.pdb
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 58\Problem 58\bin\Debug\Problem 58.exe
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 58\Problem 58\bin\Debug\Problem 58.pdb
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 58\Problem 58\bin\Debug\Problem 58.xml
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 58\Problem 58\bin\Debug\yo\Problem 58.resources.dll
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 58\Problem 58\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 58\Problem 58\obj\x86\Debug\Problem_58.Problemx.resources
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 58\Problem 58\obj\x86\Debug\Problem_58.Resources.resources
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 58\Problem 58\obj\x86\Debug\Problem_58.Problemx.yo.resources
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 58\Problem 58\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 58\Problem 58\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 58\Problem 58\obj\x86\Debug\yo\Problem 58.resources.dll
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 58\Problem 58\obj\x86\Debug\Problem 58.exe
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 58\Problem 58\obj\x86\Debug\Problem 58.xml
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 58\Problem 58\obj\x86\Debug\Problem 58.pdb

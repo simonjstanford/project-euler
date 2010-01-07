@@ -1,0 +1,22 @@
+C:\Users\Simon\AppData\Local\Temporary Projects\Problem 27\bin\Debug\Problem 27.exe
+C:\Users\Simon\AppData\Local\Temporary Projects\Problem 27\bin\Debug\Problem 27.pdb
+C:\Users\Simon\AppData\Local\Temporary Projects\Problem 27\bin\Debug\Problem 27.xml
+C:\Users\Simon\AppData\Local\Temporary Projects\Problem 27\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Simon\AppData\Local\Temporary Projects\Problem 27\obj\x86\Debug\Problem_27.Form1.resources
+C:\Users\Simon\AppData\Local\Temporary Projects\Problem 27\obj\x86\Debug\Problem_27.Resources.resources
+C:\Users\Simon\AppData\Local\Temporary Projects\Problem 27\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Simon\AppData\Local\Temporary Projects\Problem 27\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Simon\AppData\Local\Temporary Projects\Problem 27\obj\x86\Debug\Problem 27.exe
+C:\Users\Simon\AppData\Local\Temporary Projects\Problem 27\obj\x86\Debug\Problem 27.xml
+C:\Users\Simon\AppData\Local\Temporary Projects\Problem 27\obj\x86\Debug\Problem 27.pdb
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 27\Problem 27\obj\x86\Debug\Problem 27.exe
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 27\Problem 27\obj\x86\Debug\Problem 27.xml
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 27\Problem 27\obj\x86\Debug\Problem 27.pdb
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 27\Problem 27\bin\Debug\Problem 27.exe
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 27\Problem 27\bin\Debug\Problem 27.pdb
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 27\Problem 27\bin\Debug\Problem 27.xml
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 27\Problem 27\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 27\Problem 27\obj\x86\Debug\Problem_27.Form1.resources
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 27\Problem 27\obj\x86\Debug\Problem_27.Resources.resources
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 27\Problem 27\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Simon\documents\visual studio 2010\Projects\Problem 27\Problem 27\obj\x86\Debug\GenerateResource.write.1.tlog

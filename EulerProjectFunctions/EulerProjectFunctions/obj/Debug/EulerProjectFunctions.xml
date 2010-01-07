@@ -1,0 +1,199 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+EulerProjectFunctions
+</name>
+</assembly>
+<members>
+<member name="M:EulerProjectFunctions.PrimeNumberCalculations.IsPrime(System.Int32)">
+	<summary>
+ Determines if the given number is prime.
+ </summary>
+	<param name="n">The number to test.</param>
+	<returns>Returns a boolean value.</returns>
+	<remarks></remarks>
+</member><member name="M:EulerProjectFunctions.PrimeNumberCalculations.GetPrimes(System.Int32)">
+	<summary>
+ Finds all primes up to a given number (n).
+ </summary>
+	<param name="n">The number to test up to.</param>
+	<returns>Returns a List(Of Integer) collection containing all the prime numbers between 1 and n.</returns>
+	<remarks>Uses IsPrimes function to retrieve all primes below 1 million in ~ 3 seconds.</remarks>
+</member><member name="M:EulerProjectFunctions.PrimeNumberCalculations.IsComposite(System.Int32)">
+	<summary>
+ Determines if the given number is NOT prime.
+ </summary>
+	<param name="n">The number to test.</param>
+	<returns>Returns a boolean value.</returns>
+	<remarks></remarks>
+</member><member name="T:EulerProjectFunctions.PrimeNumberCalculations">
+	<summary>
+ A collection of functions for use in prime number calculations.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:EulerProjectFunctions.Permutations.FindPermutations(System.String)">
+	<summary>
+ Gets all the permutations of any given string.
+ </summary>
+	<param name="key">The string you want to find all the permutations of.</param>
+	<returns>Returns a List(Of String) object containing all the different permutations of the key.</returns>
+	<remarks>Uses the factorial function.</remarks>
+</member><member name="M:EulerProjectFunctions.Permutations.SameDigits(System.String,System.String)">
+	<summary>
+ Determines if two variables have exactly the same digits in them
+ </summary>
+	<param name="a">First number to test.</param>
+	<param name="b">Second number to test.</param>
+	<returns>Returns a boolean value.</returns>
+	<remarks></remarks>
+</member><member name="T:EulerProjectFunctions.Permutations">
+	<summary>
+ A collection of functions for use in permutation calculations.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:EulerProjectFunctions.ReadFile.Open(System.String)">
+	<summary>
+ Opens a text file.
+ </summary>
+	<param name="FullPath">The full path of the text file.</param>
+	<returns>Returns a string object of the text file.</returns>
+	<remarks></remarks>
+</member><member name="M:EulerProjectFunctions.ReadFile.SaveTextToFile(System.String,System.String,System.String)">
+	<summary>
+ Saves a string to a file.
+ </summary>
+	<param name="strData">The string to save.</param>
+	<param name="FullPath">The path to save to.</param>
+	<param name="ErrInfo">The string to copy error info to.</param>
+	<returns>Returns a boolean value indicating if save was successful or not.</returns>
+	<remarks></remarks>
+</member><member name="T:EulerProjectFunctions.ReadFile">
+	<summary>
+ A collection of functions used to open and save text files.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:EulerProjectFunctions.LongMultiplication.#ctor(System.String,System.Int32)">
+	<summary>
+ Performs a long multiplication calculation using two numbers, limited to both the number of characters allowed in a string object (n) and the number of digits allowed in a integar object (p).
+ </summary>
+	<param name="a">The larger number.</param>
+	<param name="b">The smaller number.</param>
+	<remarks></remarks>
+</member><member name="T:EulerProjectFunctions.LongMultiplication">
+	<summary>
+ Performs a long multiplication calculation using two numbers, limited to both the number of characters allowed in a string object (n) and the number of digits allowed in a integar object (p).
+ </summary>
+	<remarks></remarks>
+</member><member name="T:EulerProjectFunctions.IEulerOneProperty`2">
+	<summary>
+ Inteface for Euler Classes with one property to run the calculation with and one for the answer.
+ </summary>
+	<typeparam name="T">The property type for the calculation.</typeparam>
+	<typeparam name="V">The property type for the answer</typeparam>
+	<remarks></remarks>
+</member><member name="T:EulerProjectFunctions.IEulerTwoProperties`3">
+	<summary>
+ Inteface for Euler Classes with two properties to run the calculation with and one for the answer.
+ </summary>
+	<typeparam name="T">The first property type for the calculation.</typeparam>
+	<typeparam name="U">The second property type for the calculation.</typeparam>
+	<typeparam name="V">The property type for the answer</typeparam>
+	<remarks></remarks>
+</member><member name="M:EulerProjectFunctions.Factorial.#ctor(System.Int32)">
+	<summary>
+ Method of calculating the factorial of a non negative number that cant blow the int limit.
+ </summary>
+	<param name="n">The number to calculate the factorial of.</param>
+	<remarks></remarks>
+</member><member name="T:EulerProjectFunctions.Factorial">
+	<summary>
+ Method of calculating the factorial (n!) of a non negative number that cant blow the int limit.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:EulerProjectFunctions.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:EulerProjectFunctions.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:EulerProjectFunctions.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:EulerProjectFunctions.CalcGoesInto.#ctor(System.Int32,System.Int32)">
+	<summary>
+  Calculates how many times one number goes into another number.
+ </summary>
+	<param name="divisor">The smaller number.</param>
+	<param name="element">The larger number.</param>
+	<remarks>This function is used in LongDivision.</remarks>
+</member><member name="T:EulerProjectFunctions.CalcGoesInto">
+	<summary>
+ Calculates how many times one number goes into another number.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:EulerProjectFunctions.LongSubtraction.#ctor(System.String,System.String)">
+	<summary>
+ Performs a long subtraction calculation with two numbers.  Does not work when the answer will be negative.
+ </summary>
+	<param name="a">The larger number.</param>
+	<param name="b">The smaller number.</param>
+	<remarks></remarks>
+</member><member name="T:EulerProjectFunctions.LongSubtraction">
+	<summary>
+ Performs a long subtraction calculation with two numbers.  Does not work when the answer will be negative.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:EulerProjectFunctions.PowerOf.#ctor(System.String,System.Int32)">
+	<summary>
+ Calculates the power of a number.
+ </summary>
+	<param name="a">The number to calculate the power of.</param>
+	<param name="p">The power to use.</param>
+	<remarks></remarks>
+</member><member name="T:EulerProjectFunctions.PowerOf">
+	<summary>
+ Calculates the power of a number.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:EulerProjectFunctions.LongDivisionDivideOne.#ctor(System.String)">
+	<summary>
+ Uses long division to divide the number given to it by 1.
+ </summary>
+	<param name="a">The number used to divide 1</param>
+	<remarks>Uses the CalcGoesInto.Calculate function</remarks>
+</member><member name="T:EulerProjectFunctions.LongDivisionDivideOne">
+	<summary>
+ Uses long division to divide the number given to it by 1
+ </summary>
+	<remarks></remarks>
+</member><member name="M:EulerProjectFunctions.LongAddition.#ctor(System.String,System.String)">
+	<summary>
+ Performs a long division calculation, limited only to the number of characters allowed in a string object.
+ </summary>
+	<param name="a">The first number needed to perform the calculation.</param>
+	<param name="b">The second number needed to perform the calculation.</param>
+	<remarks></remarks>
+</member><member name="T:EulerProjectFunctions.LongAddition">
+	<summary>
+ Performs a long division calculation, limited only to the number of characters allowed in a string object.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:EulerProjectFunctions.IsPandigital.#ctor(System.String)">
+	<summary>
+ Determines if the given number is pandigital (contains all the numbers 0-9).
+ </summary>
+	<param name="n">The number to test.</param>
+	<remarks></remarks>
+</member><member name="T:EulerProjectFunctions.IsPandigital">
+	<summary>
+ Determines if the given number is pandigital (contains all the numbers 0-9).
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>
