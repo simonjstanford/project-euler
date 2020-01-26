@@ -1,5 +1,5 @@
  function getPrimeNumbers(belowNumber, cb) {
-    const primes = [];
+    const primes = [2,3];
     
     for (let i = 5; i < belowNumber; i += 2) {
         if (isPrime(i)) {
@@ -9,7 +9,7 @@
 
     let primesStr = "";
     primes.forEach(x => primesStr += x + ", ");
-    console.log(primesStr);
+    //console.log(primesStr);
     cb(primes);
 }
 
