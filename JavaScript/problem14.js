@@ -5,6 +5,9 @@ let answer = {
     length: 0
 };
 
+var d1 = new Date();
+var start = d1.getTime();
+
 for (let i = 1; i < 1000000; i++) {
     let sequence = calculateCollatzSequence(i);
     sequences[i] = sequence;
@@ -15,6 +18,8 @@ for (let i = 1; i < 1000000; i++) {
 }
 
 console.log(answer.n);
+var d2 = new Date();
+console.log(d2.getTime() - start);
 
 
 function calculateCollatzSequence(n) {
@@ -28,6 +33,13 @@ function calculateCollatzSequence(n) {
         }
 
         sequence.push(n);
+
+        //if we already have the sequence for the current number then there's no need to continue
+        let previous = sequences[n];
+        if (previous) {
+            sequence.push(...previous);
+            break;
+        }
     }
 
     return sequence;
